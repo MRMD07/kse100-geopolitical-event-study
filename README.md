@@ -63,5 +63,7 @@ The data demonstrates that institutional capital treated the mediation timeline 
 │   └── kse100_historical.csv        # Cleaned chronological time-series data
 ├── src/
 │   └── market_event_study.py        # Core NumPy/Pandas processing & plotting script
+├── output/
+    └── kse100_geopolitical_analysis.png     # High-resolution generated dashboard export
 ├── README.md                        # Project documentation and whitepaper
 └── requirements.txt                 # Project environment dependencies
